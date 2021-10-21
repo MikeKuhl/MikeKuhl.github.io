@@ -18,5 +18,5 @@
 [Day 14](#(fill))
 [Day 15](#(fill))
 
-<a name="headers"/>
+<a name="Day 1"/>
 ## Day 1 Notes
