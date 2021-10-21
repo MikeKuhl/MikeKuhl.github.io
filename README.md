@@ -1,6 +1,8 @@
 #201 Reading notes
 ##### Table of Contents  
-[Day 1](#(fill)
+
+
+[Day 1](#(fill))
 [Day 2](#(fill))
 [Day 3](#(fill))
 [Day 4](#(fill))
