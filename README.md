@@ -1,5 +1,8 @@
+
+<img src="https://e7.pngegg.com/pngimages/358/1/png-clipart-software-extension-qr-code-wordpress-text-two-dimensional-code-icon-miscellaneous-text.png" alt="drawing" width="200"/>
 #201 Reading notes
-##### Table of Contents  
+
+##### **Table of Contents**  
 
 
 [Day 1](#(fill))
@@ -20,3 +23,10 @@
 
 <a name="Day 1"/>
 ## Day 1 Notes
+
+
+<!-- Fill in information per day for reading notes. -->
+
+
+
+
