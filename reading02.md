@@ -1,3 +1,10 @@
+ ---
+title: Reading 02
+layout: template
+filename: reading02.md
+--- 
+ 
+ 
  - html elements describe page structure.
  - they provide emphasis where information should be.
  - heading, paragraphs, stylizing of text and markup
