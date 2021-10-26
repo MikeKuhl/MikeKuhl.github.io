@@ -19,3 +19,5 @@ JS
  - Javascript distinguishes between different data types (strings,numbers,bools)
  - expression valuate into a single value
  - expressions rely on operators
+
+- [Home](README.md)
