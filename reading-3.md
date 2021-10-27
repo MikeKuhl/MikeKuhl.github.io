@@ -64,12 +64,7 @@ const cars = ["Saab", "Volvo", "BMW"];
 - Three types of loops, For Loops, While Loops, Do While loops
 
 ```
-
-  var money = prompt("Was Mark Zuckerberg a millionaire by age 23?");
-  money.toLowerCase();
-  if (money === "yes" || money === "y") {
-    alert(`Yes! ${name} how briliant of a achievement!`);
-  } else {
-    alert(`No, no, ${name} you are wrong. Facebook is still life!`);
-  }
+for (let i = 0; i < cars.length; i++) {
+  text += cars[i] + "<br>";
+}
 ```
