@@ -20,6 +20,8 @@
 - Properties can also hide elements
 - Borders can also be images and rounded borders
 
+
+
 ```
 p,
 ul {
