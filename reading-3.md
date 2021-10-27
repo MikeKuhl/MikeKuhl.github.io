@@ -5,6 +5,12 @@
 - Unordered lists use bullets
 -Deifinition lists are used to define terminology.
 - List can be nested inside one another
+```
+<ul>Test</ul>
+<ol>test</ol>
+<dl>test</dl>
+<ul>test</ul>
+```
 
 # Boxes #
 
@@ -14,13 +20,38 @@
 - Properties can also hide elements
 - Borders can also be images and rounded borders
 
+```
+p,
+ul {
+  border: 2px solid rebeccapurple;
+  padding: .5em;
+}
+
+.block,
+li {
+  border: 2px solid blue;
+  padding: .5em;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+}
+
+.block {
+  display: block;
+}
+```
+
 # Arrays #
 
 - Arrays store lists of values
 - Arrays start at [0]
 - You can select where you want in an Array by selecting  Such as Array[2] which would take you to the third entry.
 - You can also change the values in an array
-
+```
+const cars = ["Saab", "Volvo", "BMW"];
+```
 # Loops and Logic #
 
 - Comparison operators allow you to combine comparison operators.
@@ -29,3 +60,14 @@
 - Data types can be switched from one to another
 - All values can evaluate to either truthy or falsy
 - Three types of loops, For Loops, While Loops, Do While loops
+
+```
+
+  var money = prompt("Was Mark Zuckerberg a millionaire by age 23?");
+  money.toLowerCase();
+  if (money === "yes" || money === "y") {
+    alert(`Yes! ${name} how briliant of a achievement!`);
+  } else {
+    alert(`No, no, ${name} you are wrong. Facebook is still life!`);
+  }
+```
