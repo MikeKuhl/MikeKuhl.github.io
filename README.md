@@ -15,7 +15,7 @@
 
 - [reading1-201](reading01.md)
 - [reading2-201](reading02.md)
-- [reading3-201](reading-3.md)
+- [reading3](reading-3.md)
 
 
 <!-- Fill in information per day for reading notes. -->
