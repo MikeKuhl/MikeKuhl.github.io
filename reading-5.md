@@ -17,3 +17,10 @@
 - Colors,contrast,appearance adds clarity to your pages.
 - There are color pickers online and in editors that help with picking colors
 - CSS3 allows the adjustmant of opacity as well as colors
+
+# TEXT #
+
+- There are properties to control the choice of font,fize,weight,style, spacing
+- there is a limited choice of fonts that you can assume most people will have installed. Due to this you can link font styling and families in yuor css styling.
+- You can control the space of lines,letters,word of text and align as needed. Similar as if you when you edited text in microsoft word for example.
+- you can change the style of text when someone hovers over
