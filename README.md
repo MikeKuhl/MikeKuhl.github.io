@@ -20,6 +20,7 @@
 - [reading5](reading-5.md)
 - [reading6](reading-6.md)
 - [reading7](reading-7.md)
+- [reading8](reading-8.md)
 <!-- Fill in information per day for reading notes. -->
 
 
