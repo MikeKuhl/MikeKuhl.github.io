@@ -26,6 +26,7 @@
 - [reading11](reading-11.md)
 - [reading12](reading-12.md)
 - [reading13](reading-13.md)
+- [reading14](reading-14.md)
 <!-- Fill in information per day for reading notes. -->
 
 
