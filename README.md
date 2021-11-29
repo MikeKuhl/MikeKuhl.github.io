@@ -28,6 +28,15 @@
 - [reading13](reading-13.md)
 - [reading14](reading-14.md)
 <!-- Fill in information per day for reading notes. -->
+## 301 Reading notes ##
+
+- [reading301-1 React Components and Props](reading301-1.md)
+
+
+
+
+
+## Things I want to know more about
 
 
 
