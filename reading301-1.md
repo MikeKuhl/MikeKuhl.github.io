@@ -1,3 +1,6 @@
+## Components and Props ##
+
+
 - What is a “component”?
 Components are independent and reusable bits of code.
 - What are the charactistics of a component?
