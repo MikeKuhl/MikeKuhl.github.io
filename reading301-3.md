@@ -41,3 +41,15 @@ const hot = {hot:"brew"}
 const coldHot = {...cold,...hot}
 console.log(coldHot)
 ```
+
+
+# How to pass Functions Between components #
+
+-In the video, what is the first step that the developer does to pass functions between components?
+
+-In your own words, what does the increment function do?
+Takes in an object from the state and increments the count of the person. Then it updates the state at the end.
+-How can you pass a method from a parent component into a child component?
+By using the passed function as a prop with the help of another function.
+-How does the child component invoke a method that was passed to it from a parent component?
+By using "this.props." and calling the method that is being passed from the parent.
