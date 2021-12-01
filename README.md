@@ -32,6 +32,7 @@
 
 - [reading301-1 React Components and Props](reading301-1.md)
 - [reading 301-2 React State and Props](reading301-2.md)
+- [reading 301-3 Passing Functions as Props](reading301-3.md)
 
 
 
