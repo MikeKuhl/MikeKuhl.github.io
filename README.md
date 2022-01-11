@@ -47,6 +47,7 @@
 ## 401 Reading notes ##
 
  - [401Reading-1](reading401-1.md)
+ - [401Reading-2](reading401-2.md)
 
 ## Things I want to know more about
 
